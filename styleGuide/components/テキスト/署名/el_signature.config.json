@@ -1,0 +1,34 @@
+{
+  "title": "署名",
+  "default": "default",
+  "variants": [
+    {
+      "name": "default",
+      "context": {
+        "modifier": "",
+        "header": "株式会社キューブ"
+      }
+		},
+    {
+      "name": "left",
+      "context": {
+        "modifier": "left",
+        "header": "採用サイト専用"
+      }
+		},
+		{
+      "name": "small",
+      "context": {
+        "modifier": "small",
+        "header": "採用サイト専用"
+      }
+		},
+		{
+      "name": "color",
+      "context": {
+        "modifier": "color",
+        "header": "採用サイト専用"
+      }
+		}
+	]
+}

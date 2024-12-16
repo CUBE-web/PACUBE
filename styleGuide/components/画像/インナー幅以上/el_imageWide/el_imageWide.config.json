@@ -1,0 +1,42 @@
+{
+  "preview": "@preview--wide",
+  "default": "default",
+  "context": {
+    "width": "1560",
+    "height": "600"
+  },
+  "variants": [
+    {
+      "name": "default",
+      "context": {
+        "modifier": "",
+        "width": "1920",
+        "height": "450"
+      }
+    },
+    {
+      "name": "large",
+      "context": {
+        "modifier": "large"
+      }
+    },
+    {
+      "name": "left",
+      "context": {
+        "modifier": "left"
+      }
+    },
+    {
+      "name": "right",
+      "context": {
+        "modifier": "right"
+      }
+    },
+    {
+      "name": "round",
+      "context": {
+        "modifier": "round"
+      }
+    }
+  ]
+}

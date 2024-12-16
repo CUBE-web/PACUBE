@@ -1,0 +1,27 @@
+{
+  "title": "ラベル",
+  "default": "default",
+  "variants": [
+    {
+      "name": "default",
+      "context": {
+        "modifier": "",
+        "text": "SERVICE 00 ラベル"
+      }
+		},
+    {
+      "name": "main",
+      "context": {
+        "modifier": "main",
+        "text": "採用サイト専用"
+      }
+		},
+		{
+      "name": "small",
+      "context": {
+        "modifier": "small",
+        "text": "採用サイト専用"
+      }
+		}
+	]
+}

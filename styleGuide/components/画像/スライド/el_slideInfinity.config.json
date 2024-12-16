@@ -1,0 +1,31 @@
+{
+  "title": "スライド",
+  "default": "default",
+  "preview": "@preview--wide",
+  "variants": [
+    {
+      "name": "default",
+      "context": {
+        "modifier": ""
+      }
+    },
+    {
+      "name": "large",
+      "context": {
+        "modifier": "large"
+      }
+    },
+    {
+      "name": "small",
+      "context": {
+        "modifier": "small"
+      }
+    },
+    {
+      "name": "smallest",
+      "context": {
+        "modifier": "smallest"
+      }
+    }
+  ]
+}
