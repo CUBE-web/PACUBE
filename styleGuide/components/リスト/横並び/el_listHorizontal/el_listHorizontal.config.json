@@ -1,0 +1,35 @@
+{
+  "default": "default",
+  "variants": [
+    {
+      "name": "default",
+      "context": {
+        "modifier": ""
+      }
+    },
+    {
+      "name": "right",
+      "context": {
+        "modifier": "right"
+      }
+    },
+    {
+      "name": "center",
+      "context": {
+        "modifier": "center"
+      }
+    },
+    {
+      "name": "large",
+      "context": {
+        "modifier": "large"
+      }
+    },
+    {
+      "name": "color",
+      "context": {
+        "modifier": "color"
+      }
+    }
+  ]
+}

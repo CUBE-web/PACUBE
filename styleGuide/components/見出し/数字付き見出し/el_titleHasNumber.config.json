@@ -1,0 +1,35 @@
+{
+  "default": "default",
+  "variants": [
+    {
+      "name": "default",
+      "context": {
+        "modifier": ""
+      }
+    },
+    {
+      "name": "large",
+      "context": {
+        "modifier": "large"
+      }
+    },
+    {
+      "name": "largest",
+      "context": {
+        "modifier": "largest"
+      }
+    },
+    {
+      "name": "small",
+      "context": {
+        "modifier": "small"
+      }
+    },
+    {
+      "name": "thin",
+      "context": {
+        "modifier": "thin"
+      }
+    }
+  ]
+}

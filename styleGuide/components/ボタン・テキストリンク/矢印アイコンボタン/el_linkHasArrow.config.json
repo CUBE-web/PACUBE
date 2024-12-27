@@ -1,0 +1,17 @@
+{
+  "default": "default",
+  "variants": [
+    {
+      "name": "default",
+      "context": {
+        "is_arrowRight": false
+      }
+    },
+    {
+      "name": "arrowRight",
+      "context": {
+        "is_arrowRight": true
+      }
+    }
+  ]
+}

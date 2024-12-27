@@ -1,0 +1,29 @@
+{
+  "default": "default",
+  "variants": [
+    {
+      "name": "default",
+      "context": {
+        "modifier": ""
+      }
+    },
+    {
+      "name": "base",
+      "context": {
+        "modifier": "base"
+      }
+    },
+    {
+      "name": "left",
+      "context": {
+        "modifier": "left"
+      }
+    },
+    {
+      "name": "thin",
+      "context": {
+        "modifier": "thin"
+      }
+    }
+  ]
+}
