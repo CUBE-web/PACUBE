@@ -18,12 +18,6 @@
       "context": {
         "modifier": "left"
       }
-    },
-    {
-      "name": "thin",
-      "context": {
-        "modifier": "thin"
-      }
     }
   ]
 }
