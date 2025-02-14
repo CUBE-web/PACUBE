@@ -9,17 +9,24 @@
         "text": "SERVICE 00 ラベル"
       }
 		},
-    {
-      "name": "main",
+		{
+      "name": "medium",
       "context": {
-        "modifier": "main",
-        "text": "採用サイト専用"
+        "modifier": "medium",
+        "text": "SERVICE 00 中ラベル"
       }
 		},
 		{
       "name": "small",
       "context": {
         "modifier": "small",
+        "text": "SERVICE 00 小ラベル"
+      }
+		},
+    {
+      "name": "main",
+      "context": {
+        "modifier": "main",
         "text": "採用サイト専用"
       }
 		}
