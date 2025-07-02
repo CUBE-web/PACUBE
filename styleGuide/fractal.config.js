@@ -13,7 +13,7 @@ const fractal = module.exports = require('@frctl/fractal').create();
 /*
  * Give your project a title.
  */
-fractal.set('project.title', 'styleGuide');
+fractal.set('project.title', 'PACUBE');
 
 /*
  * Tell Fractal where to look for components.
